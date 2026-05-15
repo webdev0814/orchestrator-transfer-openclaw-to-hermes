@@ -30,3 +30,7 @@ This repository is a sanitized operational pattern. Do not commit bot tokens, HM
 - **Phase 2B:** Locked until soak; Hermes becomes trigger via SSH shim.
 
 See `RUNBOOK.md` and `SKILL.md` for reusable instructions.
+
+## License
+
+MIT — see [LICENSE](LICENSE).
