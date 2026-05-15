@@ -1,0 +1,7 @@
+*.secret
+*.token
+*.key
+*.pem
+id_*
+.env
+.env.*
